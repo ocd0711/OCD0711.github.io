@@ -2,3 +2,18 @@ menu:
   Home: /
   Archives: /archives
   About: /about.html
+
+# giscus comment
+giscus: true
+data_repo: ocd0711/ocd0711.github.io
+data_repo_id: R_kgDOH8e7OQ
+data_category: Announcements
+data_category_id: DIC_kwDOH8e7Oc4CRQKz
+data_mapping: og:title
+data_strict: 1
+data_reactions_enabled: 1
+data_emit_metadata: 0
+data_input_position: top 
+data_theme: preferred_color_scheme
+data_lang: zh-CN
+data_loading: lazy
